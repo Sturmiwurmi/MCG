@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - JS
+  - Canvas
+  - Gamemanager
+  - NPCOverlay
+  - NPC
+  - Trackpad
+  - TeleporterUI
+  - Griese(npc)
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - ObjectsLayer
+  - NPCBarrier
+  - 
+  - Items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2795817743
+    locked: 0
+  - name: Objects
+    uniqueID: 674084663
+    locked: 0
+  - name: Items
+    uniqueID: 2075364431
+    locked: 0
+  - name: NPCs
+    uniqueID: 1820447561
+    locked: 0
+  - name: Player
+    uniqueID: 1244555383
+    locked: 0
